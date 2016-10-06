@@ -1,0 +1,1 @@
+OK; Total unique words: 28, Hashtable size: 64, Average length of collision lists: 0.4375
